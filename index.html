@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+
+        /* Custom scroll-behavior for smooth scrolling */
+        html {
+            scroll-behavior: smooth;
+        }
+    </style>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        pastel: {
+                            100: '#fcf6f3',
+                            200: '#f6e4d9',
+                            300: '#f0d2bf',
+                            400: '#e4bfa3',
+                            500: '#d9a88c',
+                            600: '#c58d71',
+                            700: '#b07255',
+                            800: '#9b573a',
+                            900: '#863c1e',
+                        },
+                        accent: {
+                            500: '#8ba4f5',
+                            600: '#6c88ee'
+                        }
+                    },
+                }
+            }
+        }
+    </script>
+</head>
+<body class="bg-pastel-100 text-pastel-900 leading-relaxed">
+
+    <!-- Header & Navigation -->
+    <header class="bg-pastel-100/90 backdrop-blur-sm fixed top-0 w-full z-50 shadow-sm">
+        <nav class="container mx-auto px-4 py-4 flex justify-between items-center">
+            <a href="#" class="text-2xl font-bold tracking-tight text-accent-600">My Portfolio</a>
+            <ul class="hidden md:flex space-x-8">
+                <li><a href="#about" class="text-lg text-pastel-800 hover:text-accent-600 transition-colors">About</a></li>
+                <li><a href="#portfolio" class="text-lg text-pastel-800 hover:text-accent-600 transition-colors">Portfolio</a></li>
+                <li><a href="#contact" class="text-lg text-pastel-800 hover:text-accent-600 transition-colors">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <main class="pt-24">
+        <section id="hero" class="container mx-auto px-4 py-16 md:py-32 flex flex-col md:flex-row items-center justify-center text-center md:text-left">
+            <div class="md:w-1/2 mb-8 md:mb-0 md:pr-12">
+                <h1 class="text-4xl md:text-6xl font-extrabold leading-tight text-pastel-800">
+                    Hello, I'm <span class="text-accent-600">Jane Doe</span>
+                </h1>
+                <p class="mt-4 text-xl md:text-2xl text-pastel-700">
+                    A creative professional specializing in web design and development.
+                </p>
+                <a href="#portfolio" class="mt-8 inline-block px-8 py-4 bg-accent-500 text-white font-semibold rounded-full shadow-lg hover:bg-accent-600 transition-colors transform hover:scale-105">
+                    View My Work
+                </a>
+            </div>
+            <div class="md:w-1/2 flex justify-center">
+                <div class="w-56 h-56 md:w-80 md:h-80 bg-pastel-300 rounded-full flex items-center justify-center overflow-hidden shadow-xl">
+                    <img src="https://placehold.co/320x320/d9a88c/fcf6f3?text=Profile+Pic" alt="Profile Picture" class="w-full h-full object-cover">
+                </div>
+            </div>
+        </section>
+
+        <!-- About Me Section -->
+        <section id="about" class="container mx-auto px-4 py-16 md:py-24">
+            <div class="max-w-4xl mx-auto bg-white p-8 md:p-12 rounded-2xl shadow-xl">
+                <h2 class="text-3xl md:text-4xl font-bold text-center mb-6 text-pastel-800">About Me</h2>
+                <div class="prose text-pastel-700 max-w-none text-lg">
+                    <p>
+                        I am a passionate and detail-oriented web developer with a love for creating beautiful and functional digital experiences. My journey began with a simple curiosity about how websites work, which quickly blossomed into a full-fledged career. I thrive on challenges and constantly seek to learn new technologies and improve my craft.
+                    </p>
+                    <p class="mt-4">
+                        My expertise lies in front-end development, using modern tools and frameworks to build responsive, user-friendly, and accessible websites. When I'm not coding, you can find me exploring new design trends, reading sci-fi novels, or enjoying a good cup of coffee.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Portfolio Section -->
+        <section id="portfolio" class="container mx-auto px-4 py-16 md:py-24">
+            <h2 class="text-3xl md:text-4xl font-bold text-center mb-12 text-pastel-800">My Work</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+                <!-- Project Card 1 -->
+                <div class="bg-white rounded-2xl shadow-lg p-6 group transition-transform transform hover:scale-105">
+                    <img src="https://placehold.co/600x400/f6e4d9/8ba4f5?text=Project+One" alt="Project One" class="w-full h-48 object-cover rounded-xl mb-4">
+                    <h3 class="text-2xl font-semibold text-pastel-800 mb-2">Project Title 1</h3>
+                    <p class="text-pastel-600">A clean and modern e-commerce site designed for a local boutique.</p>
+                </div>
+
+                <!-- Project Card 2 -->
+                <div class="bg-white rounded-2xl shadow-lg p-6 group transition-transform transform hover:scale-105">
+                    <img src="https://placehold.co/600x400/f6e4d9/8ba4f5?text=Project+Two" alt="Project Two" class="w-full h-48 object-cover rounded-xl mb-4">
+                    <h3 class="text-2xl font-semibold text-pastel-800 mb-2">Project Title 2</h3>
+                    <p class="text-pastel-600">A responsive landing page for a new tech startup.</p>
+                </div>
+
+                <!-- Project Card 3 -->
+                <div class="bg-white rounded-2xl shadow-lg p-6 group transition-transform transform hover:scale-105">
+                    <img src="https://placehold.co/600x400/f6e4d9/8ba4f5?text=Project+Three" alt="Project Three" class="w-full h-48 object-cover rounded-xl mb-4">
+                    <h3 class="text-2xl font-semibold text-pastel-800 mb-2">Project Title 3</h3>
+                    <p class="text-pastel-600">A blog platform with a custom content management system.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact" class="container mx-auto px-4 py-16 md:py-24">
+            <div class="max-w-xl mx-auto bg-white p-8 md:p-12 rounded-2xl shadow-xl text-center">
+                <h2 class="text-3xl md:text-4xl font-bold mb-6 text-pastel-800">Get in Touch</h2>
+                <form class="space-y-6">
+                    <div class="text-left">
+                        <label for="name" class="block text-pastel-700 font-medium mb-1">Name</label>
+                        <input type="text" id="name" name="name" class="w-full px-4 py-3 rounded-lg border border-pastel-300 focus:outline-none focus:ring-2 focus:ring-accent-500 transition-colors">
+                    </div>
+                    <div class="text-left">
+                        <label for="email" class="block text-pastel-700 font-medium mb-1">Email</label>
+                        <input type="email" id="email" name="email" class="w-full px-4 py-3 rounded-lg border border-pastel-300 focus:outline-none focus:ring-2 focus:ring-accent-500 transition-colors">
+                    </div>
+                    <div class="text-left">
+                        <label for="message" class="block text-pastel-700 font-medium mb-1">Message</label>
+                        <textarea id="message" name="message" rows="4" class="w-full px-4 py-3 rounded-lg border border-pastel-300 focus:outline-none focus:ring-2 focus:ring-accent-500 transition-colors"></textarea>
+                    </div>
+                    <button type="submit" class="w-full px-8 py-4 bg-accent-500 text-white font-semibold rounded-full shadow-lg hover:bg-accent-600 transition-colors transform hover:scale-105">
+                        Send Message
+                    </button>
+                </form>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-pastel-300 text-pastel-800 text-center py-6 mt-12">
+        <p>&copy; 2025 Jane Doe. All rights reserved.</p>
+    </footer>
+
+    <script>
+        // Smooth scroll for navigation links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+    </script>
+</body>
+</html>
