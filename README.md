@@ -64,23 +64,24 @@ Hi, I'm **Riad Developer** — a **Full Stack Developer** who loves turning idea
 | Project | What it is | Stack |
 |---------|-----------|-------|
 | [PyRunner](https://github.com/RiadDeveloper/PyRunner) | Run and edit Python projects on your Android phone | Flutter, Python 3.13, Chaquopy |
-| [Guest_gen](https://github.com/RiadDeveloper/Guest_gen) | Free Fire guest account generator | Python |
-| [BotCrafter](https://github.com/RiadDeveloper/BotCrafter) | Multi-tenant bot hosting platform, containerized on Railway | TypeScript, Docker |
-| [Aixfy-web-ide](https://github.com/RiadDeveloper/Aixfy-web-ide) | Cloud IDE for compiling MIT App Inventor extensions (.aix) | TypeScript, Next.js |
-| [GemCode](https://github.com/RiadDeveloper/GemCode) | Turns Google Gemini's web UI into an API proxy (OpenAI / Claude / Gemini CLI formats) | Python |
-| [temp-mail-gmail](https://github.com/RiadDeveloper/temp-mail-gmail) | Temporary email web app | Next.js, TypeScript |
+| [OneSignal-Extension](https://github.com/RiadDeveloper/OneSignal-Extension) | OneSignal push notification extension for MIT App Inventor, Kodular and Niotron | Java, OneSignal SDK |
+| [Valid-Email-Checker](https://github.com/RiadDeveloper/Valid-Email-Checker) | Email validity checker web app | React, Vite, TypeScript |
+| [nextjs-ollama-llm-ui](https://github.com/RiadDeveloper/nextjs-ollama-llm-ui) | Fully-featured web interface for Ollama LLMs | Next.js, TypeScript |
+| [Extensions-Catalog](https://github.com/RiadDeveloper/Extensions-Catalog) | Web app that aggregates MIT App Inventor extensions from community forums | React, TypeScript |
+| [FireLike](https://github.com/RiadDeveloper/FireLike) | Advanced tool for Garena Free Fire players — profile info and automatic likes | Kotlin, Android |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RiadDeveloper&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiadDeveloper&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RiadDeveloper&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RiadDeveloper&theme=tokyonight" alt="Repos per Language" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiadDeveloper&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RiadDeveloper&theme=tokyonight&utcOffset=6" alt="Most Productive Time" />
 </p>
 
 <p align="center">
