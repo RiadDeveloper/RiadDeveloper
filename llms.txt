@@ -5,16 +5,21 @@
 > Website: https://riaddeveloper.is-a-good.dev
 > GitHub: https://github.com/RiadDeveloper
 > Email: riaddeveloperr@gmail.com
+> Photo: https://riaddeveloper.is-a-good.dev/riad-developer.jpg
 
 ## Who is Riad Developer?
 
-Riad Developer is a full stack developer. He builds web apps, Android apps,
-bots, APIs and MIT App Inventor extensions, and publishes his work in the open
-on GitHub under the username RiadDeveloper.
+Riad Developer is a full stack developer. For years he built quietly — tools,
+bots, apps and extensions — most of it published in the open on GitHub, long
+before anyone was watching. He has 128 repositories on GitHub across 14
+programming languages, and his blood group is B positive.
 
 He is known for shipping fast: his Android app PyRunner went from idea to 11
-releases in a single day. He has 128 repositories on GitHub across 14
-programming languages. His blood group is B positive.
+releases in a single day. He works across the whole stack — TypeScript and
+React on the front end, Python and Node.js on the back end, Flutter and Kotlin
+on Android — and deep inside the MIT App Inventor ecosystem, where he builds
+extensions (.aix) and the Aixfy toolchain that helps other developers build
+them too.
 
 ## What does Riad Developer do?
 
@@ -51,7 +56,7 @@ Tailwind CSS, Docker, GitHub Actions.
 
 - PyRunner (https://github.com/RiadDeveloper/PyRunner) — Run and edit
   Python projects on your Android phone. Built with Flutter, Python 3.13 and
-  Chaquopy.
+  Chaquopy. Flagship project; went from idea to 11 releases in one day.
 - OneSignal-Extension
   (https://github.com/RiadDeveloper/OneSignal-Extension) — OneSignal push
   notification extension for MIT App Inventor, Kodular and Niotron. Built
