@@ -59,10 +59,8 @@ Here are some of my notable projects:
 
 I'm always interested in collaborating on exciting projects and discussing new ideas. Feel free to reach out!
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn](#)
-- **Twitter:** [Your Twitter](#)
-- **Personal Website:** [your-website.com](#)
+- **Email:** [riaddeveloperr@gmail.com](mailto:riaddeveloperr@gmail.com)
+
 
 ---
 
