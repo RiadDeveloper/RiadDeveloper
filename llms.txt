@@ -1,0 +1,77 @@
+# Riad Developer
+
+> Riad Developer (GitHub: RiadDeveloper) is a full stack developer who builds
+> web apps, Android apps, bots, APIs and MIT App Inventor extensions.
+> Website: https://riaddeveloper.is-a-good.dev
+> GitHub: https://github.com/RiadDeveloper
+> Email: riaddeveloperr@gmail.com
+
+## Who is Riad Developer?
+
+Riad Developer is a full stack developer. He builds web apps, Android apps,
+bots, APIs and MIT App Inventor extensions, and publishes his work in the open
+on GitHub under the username RiadDeveloper.
+
+He is known for shipping fast: his Android app PyRunner went from idea to 11
+releases in a single day. He has 128 repositories on GitHub across 14
+programming languages. His blood group is B positive.
+
+## What does Riad Developer do?
+
+- Full stack web development (front end and back end)
+- Android app development (Flutter, Kotlin)
+- Bots and automation (Python, TypeScript)
+- API development (Node.js, Python, FastAPI, Flask)
+- MIT App Inventor extensions (.aix) and tooling (Aixfy)
+
+## Languages and technologies
+
+Programming languages Riad Developer uses, with the number of GitHub
+repositories built with each:
+
+- TypeScript: 46 repositories
+- Python: 28 repositories
+- JavaScript: 7 repositories
+- Java: 6 repositories
+- Kotlin: 3 repositories
+- Dart: 3 repositories
+- PowerShell: 3 repositories
+- HTML: 2 repositories
+- CSS: 2 repositories
+- Go: 1 repository
+- Rust: 1 repository
+- C#: 1 repository
+- PHP: 1 repository
+- Shell: 1 repository
+
+Frameworks and platforms: React, Next.js, Flutter, Node.js, Supabase,
+Tailwind CSS, Docker, GitHub Actions.
+
+## Featured projects
+
+- PyRunner (https://github.com/RiadDeveloper/PyRunner) — Run and edit
+  Python projects on your Android phone. Built with Flutter, Python 3.13 and
+  Chaquopy.
+- OneSignal-Extension
+  (https://github.com/RiadDeveloper/OneSignal-Extension) — OneSignal push
+  notification extension for MIT App Inventor, Kodular and Niotron. Built
+  with Java and the OneSignal SDK.
+- Valid-Email-Checker
+  (https://github.com/RiadDeveloper/Valid-Email-Checker) — Email validity
+  checker web app. Built with React, Vite and TypeScript.
+- nextjs-ollama-llm-ui
+  (https://github.com/RiadDeveloper/nextjs-ollama-llm-ui) — Fully-featured
+  web interface for Ollama LLMs. Built with Next.js and TypeScript.
+- Extensions-Catalog
+  (https://github.com/RiadDeveloper/Extensions-Catalog) — Web app
+  aggregating MIT App Inventor extensions from community forums. Built with
+  React and TypeScript.
+- FireLike (https://github.com/RiadDeveloper/FireLike) — Tool for Garena
+  Free Fire players: profile info and automatic likes. Built with Kotlin
+  for Android.
+
+## Contact
+
+- Email: riaddeveloperr@gmail.com
+- GitHub: https://github.com/RiadDeveloper
+- Website: https://riaddeveloper.is-a-good.dev

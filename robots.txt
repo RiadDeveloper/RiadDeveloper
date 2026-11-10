@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://riaddeveloper.is-a-good.dev/sitemap.xml
