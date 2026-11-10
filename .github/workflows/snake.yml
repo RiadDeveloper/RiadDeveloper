@@ -16,7 +16,6 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8db3f8,#6e9eee,#5a86e0,#345fbd
-      - uses: actions/checkout@v4
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
