@@ -6,6 +6,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RiadDeveloper&color=00D9FF&style=flat-square&label=Profile+views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/RiadDeveloper?color=00D9FF&style=flat-square&label=Followers" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-00D9FF?style=flat-square&logo=codeforces&logoColor=white" alt="Full Stack Developer" />
   <img src="https://img.shields.io/badge/Blood%20Group-B%2B-FF4D6D?style=flat-square&logo=heartpulse&logoColor=white" alt="Blood group B positive" />
 </p>
@@ -20,8 +21,29 @@ Hi, I'm **Riad Developer** — a **Full Stack Developer** who loves turning idea
 - ⚡ **I ship fast** — PyRunner went from idea to **11 releases in a single day**
 - 🧩 I work with **MIT App Inventor** — I build extensions (.aix) and tooling for it (Aixfy)
 - 🩸 Blood group: **B positive**
-- 📦 **135 repositories** and counting — TypeScript, Python, Dart, Kotlin and more
+- 📍 Based in **Bangladesh**
+- 📦 **38 repositories** — TypeScript, Python, Dart, Kotlin and more
 - 🌐 My site: [riaddeveloper.is-a-good.dev](https://riaddeveloper.is-a-good.dev)
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/RiadDeveloper?tab=achievements">
+    <img src="https://github.com/christianalberto/github-profile-achievements/raw/6ff131cdfeda38f05e36a8e87cc7e76ea72c18b3/media/badges/pull-shark.png" width="60" alt="Pull Shark" />
+    <img src="https://github.com/christianalberto/github-profile-achievements/raw/6ff131cdfeda38f05e36a8e87cc7e76ea72c18b3/media/badges/quickdraw.png" width="60" alt="Quickdraw" />
+    <img src="https://github.com/christianalberto/github-profile-achievements/raw/6ff131cdfeda38f05e36a8e87cc7e76ea72c18b3/media/badges/yolo.png" width="60" alt="YOLO" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Unlocked:</b> 🦈 Pull Shark · ⚡ Quickdraw · 🎯 YOLO
+</p>
+
+<p align="center">
+  <b>Chasing next:</b> ⭐ Starstruck · 🧠 Galaxy Brain · 👥 Pair Extraordinaire
+</p>
 
 ---
 
@@ -64,11 +86,11 @@ Hi, I'm **Riad Developer** — a **Full Stack Developer** who loves turning idea
 | Project | What it is | Stack |
 |---------|-----------|-------|
 | [PyRunner](https://github.com/RiadDeveloper/PyRunner) | Run and edit Python projects on your Android phone | Flutter, Python 3.13, Chaquopy |
-| [OneSignal-Extension](https://github.com/RiadDeveloper/OneSignal-Extension) | OneSignal push notification extension for MIT App Inventor, Kodular and Niotron | Java, OneSignal SDK |
+| [FollowBoost](https://github.com/RiadDeveloper/FollowBoost) | Instagram growth & rewards app — earn coins by following, spend them on followers | Flutter, Node.js, SQLite |
 | [Valid-Email-Checker](https://github.com/RiadDeveloper/Valid-Email-Checker) | Email validity checker web app | React, Vite, TypeScript |
-| [nextjs-ollama-llm-ui](https://github.com/RiadDeveloper/nextjs-ollama-llm-ui) | Fully-featured web interface for Ollama LLMs | Next.js, TypeScript |
-| [Extensions-Catalog](https://github.com/RiadDeveloper/Extensions-Catalog) | Web app that aggregates MIT App Inventor extensions from community forums | React, TypeScript |
-| [FireLike](https://github.com/RiadDeveloper/FireLike) | Advanced tool for Garena Free Fire players — profile info and automatic likes | Kotlin, Android |
+| [BotCrafter-Setup](https://github.com/RiadDeveloper/BotCrafter-Setup) | One-command installer for the BotCrafter multi-tenant bot hosting platform | PowerShell |
+| [GemCode-Setup](https://github.com/RiadDeveloper/GemCode-Setup) | One-command installers + prebuilt binaries for GemCode | PowerShell |
+| [appinventor-sources](https://github.com/RiadDeveloper/appinventor-sources) | MIT App Inventor open-source contributions (fork) | Java |
 
 ---
 
@@ -96,7 +118,7 @@ Hi, I'm **Riad Developer** — a **Full Stack Developer** who loves turning idea
 
 ## 🔥 By the Numbers
 
-- **135** repositories — and counting
+- **38** repositories — and counting
 - **14** programming languages used across projects
 - **11** PyRunner releases shipped in a single day
 - **Full stack** — web, Android, bots, APIs, extensions
@@ -106,6 +128,7 @@ Hi, I'm **Riad Developer** — a **Full Stack Developer** who loves turning idea
 ## 🌱 Currently Working On
 
 - 📱 **PyRunner** — making Python run beautifully on Android
+- 🚀 **FollowBoost** — Instagram growth & rewards, server-side coins
 - 🧩 **Aixfy** — tooling for MIT App Inventor extensions
 - 🤖 Bots, APIs and automation in Python & TypeScript
 
