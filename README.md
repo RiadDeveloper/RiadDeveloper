@@ -22,7 +22,7 @@ Hi, I'm **Riad Developer** — a **Full Stack Developer** who loves turning idea
 - 🧩 I work with **MIT App Inventor** — I build extensions (.aix) and tooling for it (Aixfy)
 - 🩸 Blood group: **B positive**
 - 📍 Based in **Bangladesh**
-- 📦 **41 repositories** — TypeScript, Python, Dart, Kotlin and more
+- 📦 **40 repositories** — TypeScript, Python, Dart, Kotlin and more
 - 🌐 My site: [riaddeveloper.is-a-good.dev](https://riaddeveloper.is-a-good.dev)
 
 ---
@@ -118,7 +118,7 @@ Hi, I'm **Riad Developer** — a **Full Stack Developer** who loves turning idea
 
 ## 🔥 By the Numbers
 
-- **41** repositories — and counting
+- **40** repositories — and counting
 - **14** programming languages used across projects
 - **11** PyRunner releases shipped in a single day
 - **Full stack** — web, Android, bots, APIs, extensions
